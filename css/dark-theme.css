@@ -1,0 +1,128 @@
+/* Dark Theme Styles */
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+#fh5co-header .overlay, .fh5co-cover .overlay {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#fh5co-header .display-tc h1, #fh5co-header .display-tc h2, #fh5co-header .display-tc h3,
+.fh5co-cover .display-tc h1,
+.fh5co-cover .display-tc h2,
+.fh5co-cover .display-tc h3 {
+  color: #fff;
+}
+
+.fh5co-bg-dark {
+  background: #1c1c1c;
+}
+
+#fh5co-about,
+#fh5co-resume,
+#fh5co-skills,
+#fh5co-started,
+#fh5co-work,
+#fh5co-blog,
+#fh5co-pricing,
+#fh5co-contact {
+  background-color: #1c1c1c;
+}
+
+.fh5co-heading h2 {
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, figure {
+  color: #fff;
+}
+
+.info li .first-block {
+  color: #fff;
+}
+
+.info li .second-block {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.timeline > li > .timeline-panel {
+  background: #2a2a2a;
+}
+
+.timeline:before {
+  background-color: #444;
+}
+
+.progress-wrap h3 {
+  color: #fff;
+}
+
+.progress {
+  background: #444;
+}
+
+.work .desc {
+  background: #2a2a2a;
+}
+
+.work .desc h3 {
+  color: #fff;
+}
+
+.work .desc span {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.form-control {
+  background: #2a2a2a;
+  color: #fff;
+  border: 2px solid #444;
+}
+
+#fh5co-footer {
+  background: #1c1c1c;
+}
+
+.fh5co-social-icons li a {
+  color: #FF9000;
+}
+#fh5co-about .fh5co-social-icons li a {
+    color: #fff;
+}
+
+#fh5co-features {
+    background: #1c1c1c;
+}
+#fh5co-consult .choose {
+    background-color: #1c1c1c;
+}
+.fh5co-bg-color {
+    background: #1c1c1c !important;
+}
+.timeline-title {
+    color: #fff;
+}
+.company {
+    color: rgba(255, 255, 255, 0.7);
+}
+.timeline-body > p, .timeline-body > ul {
+    color: rgba(255, 255, 255, 0.7);
+}
+.fh5co-blog .blog-text {
+    background: #2a2a2a;
+}
+.fh5co-blog .blog-text h3 a {
+    color: #fff;
+}
+.fh5co-blog .blog-text span {
+    color: rgba(255, 255, 255, 0.5);
+}
+.fh5co-blog .blog-text .stuff {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.fh5co-loader {
+  background: #121212 url(../images/loader.gif) center no-repeat;
+}
